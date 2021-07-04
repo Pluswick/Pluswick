@@ -2,7 +2,7 @@
 ### Welcome to my Gihub Profile!
 #### _STILL LEARNING_
 
-- 🌱 I’m currently learning C++ for Unreal Engine 
+- 🌱 I’m currently learning C++ for Unreal Engine(privately!) and Python(in university!) 
 - 🤔 I’m looking for help with the way how to be a develpoer for games 
 - ⚡ Fun fact: I am 1st grade in university! 
 
