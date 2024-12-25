@@ -2,7 +2,7 @@
 ### Welcome to my Gihub Profile!
 #### _STILL LEARNING_ 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pluswick)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pluswick&layout=compact)
 
 ![Pluswick's GitHub stats](https://github-readme-stats.vercel.app/api?username=pluswick&show_icons=true&theme=radical)
 
