@@ -5,12 +5,12 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kevinkim814)](https://solved.ac/profile/kevinkim814)
 
-<div style="display: flex; justify-content: center; align-items: space-around;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pluswick&layout=donut&theme=great-gatsby" alt="Top Langs" />
-  </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=pluswick&show_icons=true&theme=great-gatsby" alt="GitHub Stats" />
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pluswick&theme=great-gatsby"&rank_icon=github />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pluswick&theme=great-gatsby&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=pluswick&theme=great-gatsby&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
 
