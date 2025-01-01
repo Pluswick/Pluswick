@@ -7,9 +7,9 @@
 
 <div style="display: flex; justify-content: center; align-items: space-around;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pluswick&layout=donut" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pluswick&layout=donut&theme=great-gatsby" alt="Top Langs" />
   </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=pluswick&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pluswick&show_icons=true&theme=great-gatsby" alt="GitHub Stats" />
 </div>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=pluswick&theme=great-gatsby&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
