@@ -5,11 +5,10 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kevinkim814)](https://solved.ac/profile/kevinkim814)
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<div style="display: flex; justify-content: center; align-items: space-around;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pluswick&layout=donut" alt="Top Langs" />
   </a>
-  <div style="width: 2px; height: 100%; background-color: #ddd; margin: 0 10px;"></div>
   <img src="https://github-readme-stats.vercel.app/api?username=pluswick&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
