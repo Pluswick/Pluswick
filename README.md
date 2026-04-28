@@ -2,7 +2,7 @@
 ### Welcome to my Gihub Profile!
 #### _STILL LEARNING_ 
 
-### I became a researcher at the Creative Contents Lab of Sangmyung University!
+### Deputy Leader of the Creative Computing Lab at Sangmyung University
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kevinkim814)](https://solved.ac/profile/kevinkim814)
