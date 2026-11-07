@@ -32,7 +32,7 @@ In my master's program, I aim to study model compression and optimization, how t
 | **Mouse Filler Volume Prediction** | 3D reconstruction from 2D video with Instant-NGP — Gachon Univ. |
 | **Tissue-specific Kp Prediction** | Chemprop-based GNN, lead researcher — KRIBB |
 | **NPU Algorithm for Toxicity Prediction** | MLP built only from NPU-supported operators on Kneron KL630 — KRIBB |
-| **DoorBox** | EfficientNet-B0 age/gender model quantized and deployed on an NPU |
+| **DoorBox** | Face analysis on an NPU: YOLOv5s detection, EfficientNet-B0 emotion classifier, and MobileNetV3-Small gender/age models compressed by knowledge distillation |
 
 See all projects on [my homepage](https://pluswick.github.io/#projects).
 
