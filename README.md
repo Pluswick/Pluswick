@@ -1,13 +1,13 @@
 <a href="https://pluswick.github.io">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
-    <img src="./assets/banner-light.svg" alt="Seonghan Kim — Portfolio" width="100%">
+    <img src="./assets/banner-light.svg" alt="Seonghan Kim — Undergraduate Researcher, Sangmyung University" width="100%">
   </picture>
 </a>
 
 <p align="center">
-  <a href="https://pluswick.github.io">Homepage</a> ·
-  <a href="https://pluswick.github.io/?lang=ko">한국어</a> ·
+  <a href="https://pluswick.github.io">Portfolio</a> ·
+  <a href="https://pluswick.github.io/cv.pdf">CV</a> ·
   <a href="mailto:lucidus814@gmail.com">Email</a>
 </p>
 
@@ -16,7 +16,7 @@
 I am a final-year undergraduate at Sangmyung University, double-majoring in Electronic Engineering and Human-Centered AI Engineering.
 My research focuses on machine learning for computer vision, the bio domain, and on-device inference.
 
-In my master's program, I aim to study model compression and optimization, how training data affects model performance, and reinforcement learning.
+For my master's degree, I aim to study model compression and optimization, how training data affects model performance, and reinforcement learning.
 
 ## Publications
 
@@ -34,31 +34,52 @@ In my master's program, I aim to study model compression and optimization, how t
 | **NPU Algorithm for Toxicity Prediction** | MLP built only from NPU-supported operators on Kneron KL630 — KRIBB |
 | **DoorBox** | Face analysis on an NPU: YOLOv5s detection, EfficientNet-B0 emotion classifier, and MobileNetV3-Small gender/age models compressed by knowledge distillation |
 
-See all projects on [my homepage](https://pluswick.github.io/#projects).
+See all projects on [my portfolio](https://pluswick.github.io/#projects).
 
 ## Languages & Tools
 
 **Languages**<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS">
+<img src="./assets/badges/python.svg" alt="Python" height="20">
+<img src="./assets/badges/c.svg" alt="C" height="20">
+<img src="./assets/badges/cpp.svg" alt="C++" height="20">
+<img src="./assets/badges/javascript.svg" alt="JavaScript" height="20">
+<img src="./assets/badges/html5.svg" alt="HTML5" height="20">
+<img src="./assets/badges/css.svg" alt="CSS" height="20">
+<img src="./assets/badges/matlab.svg" alt="MATLAB" height="20">
 
-**Frameworks & Libraries**<br>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
-<img src="https://img.shields.io/badge/Chemprop-2E7D32?style=flat-square" alt="Chemprop">
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
-<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=mediapipe&logoColor=white" alt="MediaPipe">
-<img src="https://img.shields.io/badge/Instant--NGP-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="Instant-NGP">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+**ML & Data**<br>
+<img src="./assets/badges/pytorch.svg" alt="PyTorch" height="20">
+<img src="./assets/badges/chemprop.svg" alt="Chemprop" height="20">
+<img src="./assets/badges/rdkit.svg" alt="RDKit" height="20">
+<img src="./assets/badges/numpy.svg" alt="NumPy" height="20">
+<img src="./assets/badges/pandas.svg" alt="pandas" height="20">
+<img src="./assets/badges/scipy.svg" alt="SciPy" height="20">
+<img src="./assets/badges/scikit-learn.svg" alt="scikit-learn" height="20">
+<img src="./assets/badges/matplotlib.svg" alt="Matplotlib" height="20">
+<img src="./assets/badges/streamlit.svg" alt="Streamlit" height="20">
 
-**NPU & Embedded**<br>
-<img src="https://img.shields.io/badge/Kneron%20KL630-374151?style=flat-square" alt="Kneron KL630">
-<img src="https://img.shields.io/badge/Hailo--8-374151?style=flat-square" alt="Hailo-8">
-<img src="https://img.shields.io/badge/FuriosaAI%20Warboy-374151?style=flat-square" alt="FuriosaAI Warboy">
-<img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32">
+**Computer Vision & Generative Models**<br>
+<img src="./assets/badges/opencv.svg" alt="OpenCV" height="20">
+<img src="./assets/badges/mediapipe.svg" alt="MediaPipe" height="20">
+<img src="./assets/badges/diffusers.svg" alt="Diffusers" height="20">
+<img src="./assets/badges/instant-ngp.svg" alt="Instant-NGP" height="20">
+
+**Deployment & Hardware**<br>
+<img src="./assets/badges/onnx.svg" alt="ONNX" height="20">
+<img src="./assets/badges/cuda.svg" alt="CUDA" height="20">
+<img src="./assets/badges/kneron-kl630.svg" alt="Kneron KL630" height="20">
+<img src="./assets/badges/hailo-8l.svg" alt="Hailo-8L" height="20">
+<img src="./assets/badges/raspberry-pi-5.svg" alt="Raspberry Pi 5" height="20">
+<img src="./assets/badges/stm32.svg" alt="STM32" height="20">
+<img src="./assets/badges/docker.svg" alt="Docker" height="20">
+<img src="./assets/badges/runpod.svg" alt="RunPod" height="20">
+
+**OS & Tools**<br>
+<img src="./assets/badges/ubuntu.svg" alt="Ubuntu" height="20">
+<img src="./assets/badges/conda.svg" alt="Conda" height="20">
+<img src="./assets/badges/git.svg" alt="Git" height="20">
+<img src="./assets/badges/github.svg" alt="GitHub" height="20">
+<img src="./assets/badges/latex.svg" alt="LaTeX" height="20">
 
 ## Problem Solving
 
