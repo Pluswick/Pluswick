@@ -16,7 +16,7 @@
 I am a final-year undergraduate at Sangmyung University, double-majoring in Electronic Engineering and Human-Centered AI Engineering.
 My research focuses on machine learning for computer vision, the bio domain, and on-device inference.
 
-In my master's program, I aim to study model compression and optimization, how training data affects model performance, and reinforcement learning.
+For my master's degree, I aim to study model compression and optimization, how training data affects model performance, and reinforcement learning.
 
 ## Publications
 
