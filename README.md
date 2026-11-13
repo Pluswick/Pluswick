@@ -20,8 +20,8 @@ For my master's degree, I aim to study model compression and optimization, how t
 
 ## Publications
 
-- **[1st author]** Dissecting Tissue-Context Effects in Graph Neural Networks for Rat Kp Prediction: Additive Shifts, Fusion Position, and Extrapolation — *Journal of Pharmacokinetics and Pharmacodynamics* (SCIE, Q2), under review
 - **[1st author]** [The choice of species representation in multi-species aquatic acute-toxicity prediction is constrained by data availability rather than by predictive accuracy](https://www.researchsquare.com/article/rs-10915713/v1) — *Journal of Cheminformatics* (SCIE, Q1), under review
+- **[Co-first author]** Dissecting Tissue-Context Effects in Graph Neural Networks for Rat Kp Prediction: Additive Shifts, Fusion Position, and Extrapolation — *Journal of Pharmacokinetics and Pharmacodynamics* (SCIE, Q2), under review
 - [Co-author] Implementation and Processing-Time Analysis of an NPU-Based Real-Time Iris Recognition System — *IEIE Summer Conference 2025*
 
 ## Selected Projects
@@ -32,7 +32,7 @@ For my master's degree, I aim to study model compression and optimization, how t
 | **Mouse Filler Volume Prediction** | 3D reconstruction from 2D video with Instant-NGP — Gachon Univ. |
 | **Tissue-specific Kp Prediction** | Chemprop-based GNN, lead researcher — KRIBB |
 | **NPU Algorithm for Toxicity Prediction** | MLP built only from NPU-supported operators on Kneron KL630 — KRIBB |
-| **DoorBox** | Face analysis on an NPU: YOLOv5s detection, EfficientNet-B0 emotion classifier, and MobileNetV3-Small gender/age models compressed by knowledge distillation |
+| **DoorBox** | YOLOv5s face detection on the Kneron KL630 NPU; emotion and gender/age classifiers (MobileNetV3-Small via knowledge distillation) on the CPU |
 
 See all projects on [my portfolio](https://pluswick.github.io/#projects).
 
